@@ -23,9 +23,22 @@ Other notable features:
 - It's FREE.
 - Mult-lingual support; add as many languages as you want.
 
-Screen Capture of the AngularJS E-commerce (Digital Commerce) Product Page
-![AngularJS E-Commerce Product Page](http://blog.vineglobal.com/images/home-page.PNG =60%)
+**Screen Capture of the AngularJS E-commerce (Digital Commerce) Product Page**
+
+<img src="http://blog.vineglobal.com/images/home-page.PNG" alt="AngularJS E-Commerce Product Page" width="50%"/>
 
 
-Screen Capture of the AngularJS E-commerce (Digital Commerce) Shopping Cart
-![AngularJS E-Commerce Shopping Cart](http://blog.vineglobal.com/images/shopping-cart.PNG =60%)
+**Screen Capture of the AngularJS E-commerce (Digital Commerce) Shopping Cart**
+
+<img src="http://blog.vineglobal.com/images/shopping-cart.PNG" alt="AngularJS E-Commerce Shopping Cart" width="50%"/>
+
+## Getting Started
+
+### Installation
+
+1. On the AngularJS-eCommerce Github repository page, click Clone or download button. These instructions will cover the download option.
+2. Download and unzip the ZIP file to your Web server.
+3. If you try to run the application, you will receive the following error message:
+4. Log into the Google API Console: https://console.developers.google.com If you haven't created a Google Developers account, you will be required to create on.
+5. Create a Google API Console project and client ID. For help, review https://developers.google.com/identity/sign-in/web/devconsole-project
+6. TBD
